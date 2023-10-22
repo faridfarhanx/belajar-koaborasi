@@ -1,2 +1,2 @@
 # belajar-koaborasi
-Iya, seru banget lo
+Belajar GitHub seru
